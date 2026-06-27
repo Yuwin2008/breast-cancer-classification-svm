@@ -136,7 +136,7 @@ Performance Comparison
 
 ## Model Comparison
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/model_comparision.png)
 
 ---
 
