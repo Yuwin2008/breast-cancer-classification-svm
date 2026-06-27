@@ -23,6 +23,20 @@ The notebook explores different SVM kernels, compares their performance with Log
 
 ---
 
+##  Skills Demonstrated
+
+- Data Preprocessing
+- Feature Scaling
+- Logistic Regression
+- Support Vector Machines (Linear, Polynomial, RBF)
+- Cross Validation
+- Hyperparameter Tuning (GridSearchCV)
+- Model Evaluation
+- Data Visualization
+- Scikit-Learn Pipelines
+
+---
+
 #  Dataset
 
 **Dataset:** Breast Cancer Wisconsin Diagnostic Dataset
