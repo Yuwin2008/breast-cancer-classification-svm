@@ -147,7 +147,7 @@ Performance Comparison
 
 ---
 
-# 💡 Key Insights
+#  Key Insights
 
 - Logistic Regression provided a strong baseline classifier.
 - Linear SVM improved performance by maximizing the decision margin.
@@ -157,7 +157,7 @@ Performance Comparison
 
 ---
 
-# 📦 Repository Structure
+#  Repository Structure
 
 ```
 breast-cancer-classification-svm/
@@ -238,7 +238,7 @@ jupyter notebook
 
 #  Author
 
-**RL Yuwin**
+**RL Yuwin** aka **Godofthunder2407**
 
 Machine Learning • AI • Kaggle • Open Source
 
